@@ -28,10 +28,11 @@ namespace mdtTask1
                     else Console.WriteLine("false");
                     break;
                 case "NSA":
-                    if (password % 10 == 1 && password % 10 == 2 && password % 10 == 3 && password % 10 == 5 && password % 10 == 6 && //3.1
+                    if ((password % 10 == 1 || password % 10 == 2 || password % 10 == 3 || password % 10 == 5 || password % 10 == 6 ) && //3.1
                         password % 1000 / 100 % 3 == 0 && password % 1000 / 100 % 2 != 0 && //3.2
                         (password % 1000000 / 100000 == 7 || password % 100000 / 10000 == 7 || password % 10000 / 1000 == 7 || //3.3
-                        password % 1000 / 100 == 7 || password % 100 / 10 == 7 || password % 10 == 7))
+                        password % 1000 / 100 == 7 || password % 100 / 10 == 7 || password % 10 == 7)
+                        )
                         Console.WriteLine("true");
                     else Console.WriteLine("false");
                     break;
