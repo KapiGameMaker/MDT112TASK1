@@ -11,8 +11,9 @@ namespace mdtTask1
             Console.WriteLine("Input Key");
             string key = Console.ReadLine();
 
-            if(string.Length == 6)
+            if (passwordStr.Length == 6)
             {
+                int password = int.Parse(passwordStr);
                 switch (key)
                 {
                     case "CIA":
@@ -43,7 +44,7 @@ namespace mdtTask1
                         break;
                 }
             }
-            else Console.WriteLine("ERROR : Please Enter 6 digit Password")
+            else Console.WriteLine("ERROR : Please Enter 6 digit Password");
 
             Console.Read();
         }
