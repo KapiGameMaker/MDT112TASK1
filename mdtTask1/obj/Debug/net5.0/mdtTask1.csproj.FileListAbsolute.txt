@@ -1,0 +1,32 @@
+D:\UnityProJect\University Project\MdtTask1\mdtTask1\mdtTask1\bin\Debug\net5.0\mdtTask1.exe
+D:\UnityProJect\University Project\MdtTask1\mdtTask1\mdtTask1\bin\Debug\net5.0\mdtTask1.deps.json
+D:\UnityProJect\University Project\MdtTask1\mdtTask1\mdtTask1\bin\Debug\net5.0\mdtTask1.runtimeconfig.json
+D:\UnityProJect\University Project\MdtTask1\mdtTask1\mdtTask1\bin\Debug\net5.0\mdtTask1.runtimeconfig.dev.json
+D:\UnityProJect\University Project\MdtTask1\mdtTask1\mdtTask1\bin\Debug\net5.0\mdtTask1.dll
+D:\UnityProJect\University Project\MdtTask1\mdtTask1\mdtTask1\bin\Debug\net5.0\ref\mdtTask1.dll
+D:\UnityProJect\University Project\MdtTask1\mdtTask1\mdtTask1\bin\Debug\net5.0\mdtTask1.pdb
+D:\UnityProJect\University Project\MdtTask1\mdtTask1\mdtTask1\obj\Debug\net5.0\mdtTask1.csproj.AssemblyReference.cache
+D:\UnityProJect\University Project\MdtTask1\mdtTask1\mdtTask1\obj\Debug\net5.0\mdtTask1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityProJect\University Project\MdtTask1\mdtTask1\mdtTask1\obj\Debug\net5.0\mdtTask1.AssemblyInfoInputs.cache
+D:\UnityProJect\University Project\MdtTask1\mdtTask1\mdtTask1\obj\Debug\net5.0\mdtTask1.AssemblyInfo.cs
+D:\UnityProJect\University Project\MdtTask1\mdtTask1\mdtTask1\obj\Debug\net5.0\mdtTask1.csproj.CoreCompileInputs.cache
+D:\UnityProJect\University Project\MdtTask1\mdtTask1\mdtTask1\obj\Debug\net5.0\mdtTask1.dll
+D:\UnityProJect\University Project\MdtTask1\mdtTask1\mdtTask1\obj\Debug\net5.0\ref\mdtTask1.dll
+D:\UnityProJect\University Project\MdtTask1\mdtTask1\mdtTask1\obj\Debug\net5.0\mdtTask1.pdb
+D:\UnityProJect\University Project\MdtTask1\mdtTask1\mdtTask1\obj\Debug\net5.0\mdtTask1.genruntimeconfig.cache
+D:\UnityProJect\MDT112\MDT112TASK1\mdtTask1\bin\Debug\net5.0\mdtTask1.exe
+D:\UnityProJect\MDT112\MDT112TASK1\mdtTask1\bin\Debug\net5.0\mdtTask1.deps.json
+D:\UnityProJect\MDT112\MDT112TASK1\mdtTask1\bin\Debug\net5.0\mdtTask1.runtimeconfig.json
+D:\UnityProJect\MDT112\MDT112TASK1\mdtTask1\bin\Debug\net5.0\mdtTask1.runtimeconfig.dev.json
+D:\UnityProJect\MDT112\MDT112TASK1\mdtTask1\bin\Debug\net5.0\mdtTask1.dll
+D:\UnityProJect\MDT112\MDT112TASK1\mdtTask1\bin\Debug\net5.0\ref\mdtTask1.dll
+D:\UnityProJect\MDT112\MDT112TASK1\mdtTask1\bin\Debug\net5.0\mdtTask1.pdb
+D:\UnityProJect\MDT112\MDT112TASK1\mdtTask1\obj\Debug\net5.0\mdtTask1.csproj.AssemblyReference.cache
+D:\UnityProJect\MDT112\MDT112TASK1\mdtTask1\obj\Debug\net5.0\mdtTask1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityProJect\MDT112\MDT112TASK1\mdtTask1\obj\Debug\net5.0\mdtTask1.AssemblyInfoInputs.cache
+D:\UnityProJect\MDT112\MDT112TASK1\mdtTask1\obj\Debug\net5.0\mdtTask1.AssemblyInfo.cs
+D:\UnityProJect\MDT112\MDT112TASK1\mdtTask1\obj\Debug\net5.0\mdtTask1.csproj.CoreCompileInputs.cache
+D:\UnityProJect\MDT112\MDT112TASK1\mdtTask1\obj\Debug\net5.0\mdtTask1.dll
+D:\UnityProJect\MDT112\MDT112TASK1\mdtTask1\obj\Debug\net5.0\ref\mdtTask1.dll
+D:\UnityProJect\MDT112\MDT112TASK1\mdtTask1\obj\Debug\net5.0\mdtTask1.pdb
+D:\UnityProJect\MDT112\MDT112TASK1\mdtTask1\obj\Debug\net5.0\mdtTask1.genruntimeconfig.cache

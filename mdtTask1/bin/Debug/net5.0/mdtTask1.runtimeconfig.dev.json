@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\plume\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\plume\\.nuget\\packages"
+    ]
+  }
+}
